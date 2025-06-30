@@ -1,0 +1,85 @@
+<style>
+  body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background: linear-gradient(to bottom right, #ffe4f8, #fce4ec);
+    color: #6b006b;
+  }
+
+  .navbar {
+    background: linear-gradient(to right, #ffb6c1, #ff69b4, #ff1493);
+  }
+
+  .navbar-brand, .nav-link {
+    color: white !important;
+    font-weight: bold;
+  }
+
+  .nav-link.active {
+    border-bottom: 2px solid white;
+  }
+
+  .card {
+    background: linear-gradient(to bottom, #fff0f5, #ffe4f8);
+    border: 2px solid #ffc0cb;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(255, 182, 193, 0.5);
+  }
+
+  .card h5 {
+    color: #d63384;
+  }
+
+  footer {
+    background-color: #f8bbd0;
+    color: #880e4f;
+    font-weight: bold;
+  }
+
+  .profile-img {
+    border: 4px solid #ff69b4;
+    border-radius: 50%;
+    box-shadow: 0 0 10px #ff69b4;
+  }
+
+  .btn-pink {
+    background: #ff69b4;
+    color: white;
+    border-radius: 20px;
+  }
+
+  .btn-pink:hover {
+    background: #ff1493;
+  }
+
+  a {
+    color: #d81b60;
+  }
+
+  a:hover {
+    color: #ad1457;
+  }
+
+  h1, h2, h5 {
+    font-family: 'Baloo 2', cursive;
+  }
+
+  .card-text {
+    font-size: 0.95rem;
+  }
+</style>
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2&display=swap" rel="stylesheet">
+
+<style>
+  body {
+    font-family: 'Comic Sans MS', cursive;
+    background: linear-gradient(135deg, #ffe4f8, #ffd1dc, #ffe6f7);
+    background-attachment: fixed;
+    color: #6b006b;
+    position: relative;
+    overflow-x: hidden;
+  }
+  </style>
+
+  
+
+  
